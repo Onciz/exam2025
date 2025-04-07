@@ -1,0 +1,27 @@
+.right {
+    margin:0;
+    display:inline;
+    float: right;
+    padding:10px;
+  }
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+.sluzby{
+  display:flex;
+  flex-flow:row wrap;
+  justify-content: center;
+}
+.karta{
+  padding:30px;
+  background-color: aliceblue;
+  width:250px;
+  border-radius: 25px;
+  margin:20px;
+}
+.container2{
+  display:flex;
+  flex-flow:row wrap;
+  justify-content: center;
+}
